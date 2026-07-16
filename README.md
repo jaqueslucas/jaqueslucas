@@ -1,127 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=190&section=header&text=Lucas%20Jaques%20de%20Souza&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%E2%80%A2%20SAP%20CAP%20Certified&descAlignY=54&descSize=18" width="100%" alt="header"/>
+<img src="assets/header.svg" width="100%" alt="Lucas Jaques de Souza — full-stack developer"/>
 
-<a href="https://github.com/jaqueslucas">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;SAP+Certified+Associate+%E2%80%93+Backend+Developer+(CAP)+%F0%9F%8F%85;JavaScript+%7C+TypeScript+%7C+Node.js+%7C+React+%E2%9A%A1" alt="typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=700&color=FF4D8D&center=true&vCenter=true&width=620&lines=hi%2C+I'm+Lucas!+%F0%9F%8C%B8;full-stack+developer+%E2%9C%A6+JS+%C2%B7+TS+%C2%B7+React+%C2%B7+Node;SAP+Certified+Associate+%E2%80%93+Backend+Developer+(CAP)+%F0%9F%8E%80;I+make+enterprise+backends+%26+neon+frontends+%E2%9C%A8" alt="typing animation"/>
 
-<img src="https://komarev.com/ghpvc/?username=jaqueslucas&color=0072ff&style=flat-square&label=Profile+views" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=jaqueslucas&color=FF4D8D&style=flat-square&label=visitors" alt="visitor counter"/>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🧑‍💻 About Me
+## 🌸 about me
 
-- 🎓 Graduated in **Multiplatform Software Development (DSM)** — Fatec Jacareí
-- 🏅 **SAP Certified Associate – Backend Developer** (SAP Cloud Application Programming Model)
-- 🚀 I build full-stack web apps with **JavaScript/TypeScript** and enterprise backends with **SAP CAP**
-- 🧑‍🏫 Author of hands-on **SAP CAP workshop material** (check out [FeedbackHub](https://github.com/jaqueslucas/feedbackhub-complete))
-- 🌱 Always learning — currently going deeper into the **SAP BTP** ecosystem
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jaqueslucas/) • [luccassouza2347@gmail.com](mailto:luccassouza2347@gmail.com)
+- 🎀 <samp>full-stack developer — <b>JavaScript · TypeScript · React · Node.js</b></samp>
+- 🏅 <samp><b>SAP Certified Associate – Backend Developer (CAP)</b></samp>
+- 🎓 <samp>graduated in <b>Multiplatform Software Development</b> @ Fatec Jacareí</samp>
+- 🧑‍🏫 <samp>I write & run hands-on <b>SAP CAP workshops</b> (FeedbackHub 💖)</samp>
+- 🕹️ <samp>built a neon cyberpunk shop just for fun — pink glow is my brand</samp>
+- 🌱 <samp>currently exploring the <b>SAP BTP</b> ecosystem</samp>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🛠️ Tech Stack
+## 🎀 my toolbox
 
 <div align="center">
 
-**Languages & Web**
+<img src="https://img.shields.io/badge/JavaScript-FF4D8D?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/TypeScript-C77DFF?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/React-D13D84?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-8E2660?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Vite-FF4D8D?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+<img src="https://img.shields.io/badge/MUI-C77DFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/SAP-E0217A?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
+<img src="https://img.shields.io/badge/SAP%20CAP-B0348F?style=for-the-badge&logo=sap&logoColor=white" alt="SAP CAP"/>
+<img src="https://img.shields.io/badge/CDS-FF4D8D?style=for-the-badge&logo=sap&logoColor=white" alt="CDS"/>
+<img src="https://img.shields.io/badge/HTML5-D13D84?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-C77DFF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/Python-8E2660?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 
-**Frameworks & Libraries**
+<img src="https://img.shields.io/badge/Git-E0217A?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-B0348F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF4D8D?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+<img src="https://img.shields.io/badge/VS%20Code-C77DFF?style=for-the-badge" alt="VS Code"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+<br/>
 
-**SAP Ecosystem**
-
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![SAP CAP](https://img.shields.io/badge/SAP%20CAP-0072ff?style=for-the-badge&logo=sap&logoColor=white)
-![CDS](https://img.shields.io/badge/CDS-00c6ff?style=for-the-badge&logo=sap&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="assets/langs.svg" width="100%" alt="languages I use most: JavaScript 35%, TypeScript 30%, HTML/CSS 20%, CAP CDS 10%, Python 5%"/>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 📌 Featured Projects
+## 💖 things I made
 
 <div align="center">
 
-<a href="https://github.com/jaqueslucas/feedbackhub-complete">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueslucas&repo=feedbackhub-complete&theme=tokyonight&hide_border=true" alt="feedbackhub-complete"/>
-</a>
-<a href="https://github.com/jaqueslucas/treinamentoSPS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueslucas&repo=treinamentoSPS&theme=tokyonight&hide_border=true" alt="treinamentoSPS"/>
-</a>
+<a href="https://github.com/jaqueslucas/feedbackhub-complete"><img src="assets/card-feedbackhub.svg" width="400" alt="FeedbackHub — SAP CAP hands-on workshop"/></a>
+<a href="https://github.com/jaqueslucas/my-shopping-cart"><img src="assets/card-exotech.svg" width="400" alt="EXO-TECH — cyberpunk shop in React"/></a>
 
-<a href="https://github.com/jaqueslucas/my-shopping-cart">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueslucas&repo=my-shopping-cart&theme=tokyonight&hide_border=true" alt="my-shopping-cart"/>
-</a>
-<a href="https://github.com/jaqueslucas/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaqueslucas&repo=Portfolio&theme=tokyonight&hide_border=true" alt="Portfolio"/>
-</a>
+<a href="https://github.com/jaqueslucas/treinamentoSPS"><img src="assets/card-treinamento.svg" width="400" alt="treinamentoSPS — training evaluation app on SAP CAP"/></a>
+<a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392323033/"><img src="assets/card-portfolio.svg" width="400" alt="Portfolio — my degree journey"/></a>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 📊 GitHub Stats
+## ✨ my streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaqueslucas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaqueslucas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="top languages"/>
-
-<img src="https://streak-stats.demolab.com/?user=jaqueslucas&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://streak-stats.demolab.com/?user=jaqueslucas&hide_border=true&background=00000000&ring=FF4D8D&fire=FF4D8D&currStreakNum=FF4D8D&sideNums=C77DFF&currStreakLabel=FFB3D1&sideLabels=FFB3D1&dates=8E5C73&stroke=FFB3D1" alt="contribution streak"/>
 
 </div>
 
----
-
-## 🐍 Contribution Snake
+## 🐍 pink snake says hi
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaqueslucas/jaqueslucas/output/github-snake.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaqueslucas/jaqueslucas/output/github-snake-light.svg"/>
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/jaqueslucas/jaqueslucas/output/github-snake.svg"/>
+  <img alt="pink contribution snake animation" src="https://raw.githubusercontent.com/jaqueslucas/jaqueslucas/output/github-snake.svg"/>
 </picture>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🤝 Let's Connect
+## 🤝 let's talk!
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jaqueslucas/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:luccassouza2347@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392323033/">
-  <img src="https://img.shields.io/badge/Portfolio-0072ff?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/>
-</a>
+<a href="https://www.linkedin.com/in/jaqueslucas/"><img src="https://img.shields.io/badge/LinkedIn-FF4D8D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:luccassouza2347@gmail.com"><img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392323033/"><img src="https://img.shields.io/badge/Portfolio-D13D84?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" width="100%" alt="footer"/>
+<br/><br/>
+<samp>made with 💖 and way too much pink</samp>
 
 </div>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 130" width="880" height="130" role="img" aria-label="Languages I use most">
+  <rect x="1" y="1" width="878" height="128" rx="14" fill="#2B0A1E" stroke="#FF4D8D" stroke-opacity="0.6" stroke-width="1.5"/>
+  <text x="30" y="38" font-family="ui-monospace, Consolas, monospace" font-size="16" font-weight="bold" fill="#FFB3D1">~/my-code-mix</text>
+  <text x="168" y="38" font-family="ui-monospace, Consolas, monospace" font-size="13" fill="#FFF0F5" opacity="0.5">$ git blame my-repos</text>
+
+  <!-- stacked bar (proportions from repo languages) -->
+  <clipPath id="bar"><rect x="30" y="54" width="820" height="18" rx="9"/></clipPath>
+  <g clip-path="url(#bar)">
+    <rect x="30"  y="54" width="287" height="18" fill="#FF4D8D"><animate attributeName="width" from="0" to="287" dur="1.2s" fill="freeze"/></rect>
+    <rect x="317" y="54" width="246" height="18" fill="#C77DFF"><animate attributeName="width" from="0" to="246" dur="1.2s" begin="0.15s" fill="freeze"/></rect>
+    <rect x="563" y="54" width="164" height="18" fill="#FFB3D1"><animate attributeName="width" from="0" to="164" dur="1.2s" begin="0.3s" fill="freeze"/></rect>
+    <rect x="727" y="54" width="82"  height="18" fill="#6EF3C5"><animate attributeName="width" from="0" to="82" dur="1.2s" begin="0.45s" fill="freeze"/></rect>
+    <rect x="809" y="54" width="41"  height="18" fill="#FFF0F5"><animate attributeName="width" from="0" to="41" dur="1.2s" begin="0.6s" fill="freeze"/></rect>
+  </g>
+
+  <g font-family="ui-monospace, Consolas, monospace" font-size="13">
+    <circle cx="38" cy="100" r="5" fill="#FF4D8D"/>
+    <text x="50" y="105" fill="#FFF0F5">JavaScript 35%</text>
+    <circle cx="200" cy="100" r="5" fill="#C77DFF"/>
+    <text x="212" y="105" fill="#FFF0F5">TypeScript 30%</text>
+    <circle cx="362" cy="100" r="5" fill="#FFB3D1"/>
+    <text x="374" y="105" fill="#FFF0F5">HTML/CSS 20%</text>
+    <circle cx="520" cy="100" r="5" fill="#6EF3C5"/>
+    <text x="532" y="105" fill="#FFF0F5">CAP CDS 10%</text>
+    <circle cx="660" cy="100" r="5" fill="#FFF0F5"/>
+    <text x="672" y="105" fill="#FFF0F5">Python 5%</text>
+  </g>
+</svg>

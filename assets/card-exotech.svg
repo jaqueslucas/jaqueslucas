@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 150" width="430" height="150" role="img" aria-label="EXO-TECH — cyberpunk shop in React">
+  <defs>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1.5" y="1.5" width="427" height="147" rx="14" fill="#2B0A1E" stroke="#C77DFF" stroke-width="1.5">
+    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  <text x="26" y="52" font-size="30" font-family="sans-serif">🦾</text>
+  <text x="72" y="46" font-family="ui-monospace, Consolas, monospace" font-size="19" font-weight="bold" fill="#C77DFF" filter="url(#glow)">exo-tech shop</text>
+  <text x="26" y="86" font-family="ui-monospace, Consolas, monospace" font-size="13" fill="#FFF0F5" opacity="0.85">neon cyberpunk store — cart with</text>
+  <text x="26" y="104" font-family="ui-monospace, Consolas, monospace" font-size="13" fill="#FFF0F5" opacity="0.85">Context API + localStorage persistence</text>
+  <g font-family="ui-monospace, Consolas, monospace" font-size="11">
+    <rect x="26" y="118" width="58" height="20" rx="10" fill="none" stroke="#FF4D8D" stroke-opacity="0.7"/>
+    <text x="55" y="132" text-anchor="middle" fill="#FF4D8D">React</text>
+    <rect x="92" y="118" width="52" height="20" rx="10" fill="none" stroke="#FFB3D1" stroke-opacity="0.7"/>
+    <text x="118" y="132" text-anchor="middle" fill="#FFB3D1">Vite</text>
+    <rect x="152" y="118" width="50" height="20" rx="10" fill="none" stroke="#6EF3C5" stroke-opacity="0.7"/>
+    <text x="177" y="132" text-anchor="middle" fill="#6EF3C5">MUI</text>
+  </g>
+  <text x="398" y="34" font-size="14" fill="#C77DFF" font-family="sans-serif">✦<animate attributeName="opacity" values="1;0.2;1" dur="2.8s" repeatCount="indefinite"/></text>
+</svg>
