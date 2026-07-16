@@ -20,5 +20,5 @@
     <rect x="170" y="118" width="70" height="20" rx="10" fill="none" stroke="#6EF3C5" stroke-opacity="0.7"/>
     <text x="205" y="132" text-anchor="middle" fill="#6EF3C5">Node.js</text>
   </g>
-  <text x="398" y="34" font-size="14" fill="#FFB3D1" font-family="sans-serif">✦<animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></text>
+  <text x="398" y="34" font-size="14" fill="#FFB3D1" font-family="sans-serif">✦<animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/></text>
 </svg>

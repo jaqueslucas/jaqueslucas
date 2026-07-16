@@ -8,6 +8,6 @@
   </defs>
   <rect x="0" y="14" width="880" height="1.5" fill="url(#line)"/>
   <text x="440" y="20" text-anchor="middle" font-size="13" fill="#FFB3D1" font-family="sans-serif">✦
-    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/>
   </text>
 </svg>

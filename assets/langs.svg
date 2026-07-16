@@ -6,11 +6,11 @@
   <!-- stacked bar (proportions from repo languages) -->
   <clipPath id="bar"><rect x="30" y="54" width="820" height="18" rx="9"/></clipPath>
   <g clip-path="url(#bar)">
-    <rect x="30"  y="54" width="287" height="18" fill="#FF4D8D"><animate attributeName="width" from="0" to="287" dur="1.2s" fill="freeze"/></rect>
-    <rect x="317" y="54" width="246" height="18" fill="#C77DFF"><animate attributeName="width" from="0" to="246" dur="1.2s" begin="0.15s" fill="freeze"/></rect>
-    <rect x="563" y="54" width="164" height="18" fill="#FFB3D1"><animate attributeName="width" from="0" to="164" dur="1.2s" begin="0.3s" fill="freeze"/></rect>
-    <rect x="727" y="54" width="82"  height="18" fill="#6EF3C5"><animate attributeName="width" from="0" to="82" dur="1.2s" begin="0.45s" fill="freeze"/></rect>
-    <rect x="809" y="54" width="41"  height="18" fill="#FFF0F5"><animate attributeName="width" from="0" to="41" dur="1.2s" begin="0.6s" fill="freeze"/></rect>
+    <rect x="30"  y="54" width="287" height="18" fill="#FF4D8D"/>
+    <rect x="317" y="54" width="246" height="18" fill="#C77DFF"/>
+    <rect x="563" y="54" width="164" height="18" fill="#FFB3D1"/>
+    <rect x="727" y="54" width="82"  height="18" fill="#6EF3C5"/>
+    <rect x="809" y="54" width="41"  height="18" fill="#FFF0F5"/>
   </g>
 
   <g font-family="ui-monospace, Consolas, monospace" font-size="13">

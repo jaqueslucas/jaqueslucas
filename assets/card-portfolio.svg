@@ -6,7 +6,7 @@
     </filter>
   </defs>
   <rect x="1.5" y="1.5" width="427" height="147" rx="14" fill="#2B0A1E" stroke="#6EF3C5" stroke-width="1.5">
-    <animate attributeName="stroke-opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="1;0.5;1" dur="4s" repeatCount="indefinite"/>
   </rect>
   <text x="26" y="52" font-size="30" font-family="sans-serif">🎓</text>
   <text x="72" y="46" font-family="ui-monospace, Consolas, monospace" font-size="19" font-weight="bold" fill="#6EF3C5" filter="url(#glow)">portfolio</text>
