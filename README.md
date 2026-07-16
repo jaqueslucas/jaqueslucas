@@ -70,7 +70,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=jaqueslucas&hide_border=true&background=00000000&ring=FF4D8D&fire=FF4D8D&currStreakNum=FF4D8D&sideNums=C77DFF&currStreakLabel=FFB3D1&sideLabels=FFB3D1&dates=8E5C73&stroke=FFB3D1" alt="contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=jaqueslucas&hide_border=true&background=00000000&ring=FF4D8D&fire=FF4D8D&currStreakNum=FF4D8D&sideNums=C77DFF&currStreakLabel=FFB3D1&sideLabels=FFB3D1&dates=8E5C73&stroke=FFB3D1&disable_animations=true" alt="contribution streak"/>
 
 </div>
 
