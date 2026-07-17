@@ -15,7 +15,7 @@
 - 🎀 <samp>full-stack developer — <b>JavaScript · TypeScript · React · Node.js</b></samp>
 - 🏅 <samp><b>SAP Certified Associate – Backend Developer (CAP)</b></samp>
 - 🎓 <samp>graduated in <b>Multiplatform Software Development</b> @ Fatec Jacareí</samp>
-- 🧑‍🏫 <samp>I write & run hands-on <b>SAP CAP workshops</b> (FeedbackHub 💖)</samp>
+- 🧑‍🏫 <samp>I write & run hands-on <b>SAP BTP workshops</b> (FeedbackHub 💖)</samp>
 - 🕹️ <samp>built a neon cyberpunk shop just for fun — pink glow is my brand</samp>
 - 🌱 <samp>currently exploring the <b>SAP BTP</b> ecosystem</samp>
 
@@ -93,7 +93,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jaqueslucas/"><img src="https://img.shields.io/badge/LinkedIn-FF4D8D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:luccassouza2347@gmail.com"><img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:lucassouza2347@hotmail.com"><img src="https://img.shields.io/badge/Email-C77DFF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 <a href="https://fatec-jacarei-dsm-portfolio.github.io/ra2581392323033/"><img src="https://img.shields.io/badge/Portfolio-D13D84?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
